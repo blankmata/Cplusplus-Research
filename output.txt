@@ -1,0 +1,7 @@
+Results:
+Minimum: 1
+Maximum: 1000
+Mean: 500.66
+Median: 499
+Mode: 431
+Standard Deviation: 289.278
